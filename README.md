@@ -1,8 +1,3 @@
----
-title: LinkedList
-date: 2019-07-28 12:50:20
-tags:
----
 Is a linear **collection of data elements** (data usually referring to Objects) but also commonly used to store primitive values, whose order is not given by their physical placement in memory. Instead **each element points to the next**. This data structure allows for efficient insertion or removal of elements from any position of the sequence during iteration. The main drawback of linked lists is that **access time is linear**.
 Linked Lists are among the simplest and most common data structures and can be used as a starting point to implement several other abstract data types, such as lists, stack, queues, though is not uncommon to implement those data structures directly without using a linked list as the basis.
 
